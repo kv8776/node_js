@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "ganesh",
+    "reg_no": 769
+  },
+  {
+    "id": 2,
+    "name": "rose",
+    "reg_no": 1000
+  },
+  {
+    "id": 3,
+    "name": "sathish",
+    "reg_no": 761
+  },
+  {
+    "id": 5,
+    "name": "varshith",
+    "reg_no": 782
+  },
+  {
+    "id": 6,
+    "name": "rose",
+    "reg_no": 800
+  }
+]
